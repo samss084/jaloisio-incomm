@@ -1,4 +1,4 @@
-Rub :powershell/update all transactions/check status/progress bar# Hello there 👋
+Run :powershell/update all transactions/check status/progress bar# Hello there 👋
 
 ## Welcome to JarekQ's InComm Payments GitHub
 
